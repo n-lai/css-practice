@@ -43,13 +43,13 @@ html, body {
 
 .dropdown-wrapper {
   position: relative;
-  width: 5%;
+  width: 3.5%;
 }
 
 .dropdown-wrapper .dropdown-content {
   display: none;
   position: absolute;
-  min-width: 200%;
+  min-width: 250%;
   height: auto;
   right: 0%;
   top: 50px;
