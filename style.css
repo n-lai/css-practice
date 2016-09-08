@@ -23,6 +23,24 @@ html, body {
   list-style-type: none;
 }
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #FBFBFB;
+}
+
+.navbar img {
+  padding-top: 15px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: lighter;
+}
+
 .main-content {
   width: 100%;
   height: 100%;
