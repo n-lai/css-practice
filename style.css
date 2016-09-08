@@ -71,7 +71,7 @@ html, body {
 h1 {
   font-size: 25px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 11px;
   padding-left: 15px;
   font-weight: lighter;
 }
@@ -113,7 +113,7 @@ h1 {
 .selected-sidebar {
   background-image: url('./dot.svg');
   background-repeat: no-repeat;
-  background-position: 0% 30%;
+  background-position: 0% 35%;
   background-size: 5px 5px;
 }
 
